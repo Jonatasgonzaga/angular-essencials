@@ -1,0 +1,26 @@
+Every other Componened we add wil be added to the appo compnent HTML templante, not to the index.html.
+
+bootstrap = 
+a technique of loading a program into a computer 
+by means of a few initial instructions which 
+    enable the introduction of the rest of the program from an input device.
+
+
+
+Backticks = used for multi-line String, for example:
+
+` 
+<h1> This is a heading </h1>
+<p> This is the paragraph </p> `
+
+
+What is bind?
+vincular, ligar (um com o outro).
+
+
+
+1 this is a interpolation block, I need to know what it is
+
+2 DOM has lots of features; one of them is made to bind html and class properties together.[]
+
+3 with {{}}, known as String interpolation, we set value attribute  of the html element some text 
